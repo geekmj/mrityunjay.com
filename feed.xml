@@ -3,29 +3,34 @@
     <title>Mrityunjay</title>
     <link href="https://www.mrityunjay.com/feed.xml" rel="self" />
     <link href="https://www.mrityunjay.com" />
-    <updated>2024-10-28T21:11:55+01:00</updated>
+    <updated>2024-10-28T22:53:37+01:00</updated>
     <author>
         <name>M Kumar</name>
     </author>
     <id>https://www.mrityunjay.com</id>
 
     <entry>
-        <title>Test Article</title>
+        <title>Courage</title>
         <author>
             <name>M Kumar</name>
         </author>
-        <link href="https://www.mrityunjay.com/test-article.html"/>
-        <id>https://www.mrityunjay.com/test-article.html</id>
+        <link href="https://www.mrityunjay.com/courage.html"/>
+        <id>https://www.mrityunjay.com/courage.html</id>
+        <media:content url="https://www.mrityunjay.com/media/posts/2/emma-simpson-mNGaaLeWEp0-unsplash.jpg" medium="image" />
 
-        <updated>2024-10-28T21:11:55+01:00</updated>
+        <updated>2024-10-28T22:50:50+01:00</updated>
             <summary>
                 <![CDATA[
-                    Test Article
+                        <img src="https://www.mrityunjay.com/media/posts/2/emma-simpson-mNGaaLeWEp0-unsplash.jpg" alt="Keep moving towards your goal be courageous." />
+                    Many of us face a combination of external pressures and internal battles, which can sometimes lead us to outcomes our rational minds resist. But it’s courage this often quiet, yet unwavering force that lifts us back to our feet, ready to face challenges once more,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Test Article </p>
+                    <p><img src="https://www.mrityunjay.com/media/posts/2/emma-simpson-mNGaaLeWEp0-unsplash.jpg" class="type:primaryImage" alt="Keep moving towards your goal be courageous." /></p>
+                <p>Many of us face a combination of external pressures and internal battles, which can sometimes lead us to outcomes our rational minds resist. But it’s courage this often quiet, yet unwavering force that lifts us back to our feet, ready to face challenges once more, even with no guarantee of success.</p><p>This courage is no small feat; it’s the key ingredient of our character, the quality that sets us apart. Courage drives us to keep moving forward, helping us reach one destination and then look onward to the next. It empowers us to face setbacks with resilience, making every challenge a step in our journey.</p><p>So, my friends, be courageous. Embrace each challenge as a stepping stone, and pursue your goals with the heart of a warrior, knowing that every defeat is just one step closer to your next victory.</p><p>As Winston Churchill said:</p><blockquote>
+<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p></blockquote>
+
             ]]>
         </content>
     </entry>

@@ -10,18 +10,19 @@
     },
     "items": [
         {
-            "id": "https://www.mrityunjay.com/test-article.html",
-            "url": "https://www.mrityunjay.com/test-article.html",
-            "title": "Test Article",
-            "summary": "Test Article",
-            "content_html": "<p>Test Article </p>",
+            "id": "https://www.mrityunjay.com/courage.html",
+            "url": "https://www.mrityunjay.com/courage.html",
+            "title": "Courage",
+            "summary": "Many of us face a combination of external pressures and internal battles, which can sometimes lead us to outcomes our rational minds resist. But it’s courage this often quiet, yet unwavering force that lifts us back to our feet, ready to face challenges once more,&hellip;",
+            "content_html": "<p>Many of us face a combination of external pressures and internal battles, which can sometimes lead us to outcomes our rational minds resist. But it’s courage this often quiet, yet unwavering force that lifts us back to our feet, ready to face challenges once more, even with no guarantee of success.</p><p>This courage is no small feat; it’s the key ingredient of our character, the quality that sets us apart. Courage drives us to keep moving forward, helping us reach one destination and then look onward to the next. It empowers us to face setbacks with resilience, making every challenge a step in our journey.</p><p>So, my friends, be courageous. Embrace each challenge as a stepping stone, and pursue your goals with the heart of a warrior, knowing that every defeat is just one step closer to your next victory.</p><p>As Winston Churchill said:</p><blockquote>\n<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p></blockquote>\n",
+            "image": "https://www.mrityunjay.com/media/posts/2/emma-simpson-mNGaaLeWEp0-unsplash.jpg",
             "author": {
                 "name": "M Kumar"
             },
             "tags": [
             ],
-            "date_published": "2024-10-28T21:11:55+01:00",
-            "date_modified": "2024-10-28T21:11:55+01:00"
+            "date_published": "2024-10-28T22:50:50+01:00",
+            "date_modified": "2024-10-28T22:53:37+01:00"
         }
     ]
 }
