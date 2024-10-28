@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kalamly",
+    "description": "",
+    "home_page_url": "https://geekmj.github.com/mrityunjay.com.git",
+    "feed_url": "https://geekmj.github.com/mrityunjay.com.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "M Kumar"
+    },
+    "items": [
+        {
+            "id": "https://geekmj.github.com/mrityunjay.com.git/test-article.html",
+            "url": "https://geekmj.github.com/mrityunjay.com.git/test-article.html",
+            "title": "Test Article",
+            "summary": "Test Article",
+            "content_html": "<p>Test Article </p>",
+            "author": {
+                "name": "M Kumar"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-28T21:11:55+01:00",
+            "date_modified": "2024-10-28T21:11:55+01:00"
+        }
+    ]
+}

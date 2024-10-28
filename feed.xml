@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Kalamly</title>
+    <link href="https://geekmj.github.com/mrityunjay.com.git/feed.xml" rel="self" />
+    <link href="https://geekmj.github.com/mrityunjay.com.git" />
+    <updated>2024-10-28T21:11:55+01:00</updated>
+    <author>
+        <name>M Kumar</name>
+    </author>
+    <id>https://geekmj.github.com/mrityunjay.com.git</id>
+
+    <entry>
+        <title>Test Article</title>
+        <author>
+            <name>M Kumar</name>
+        </author>
+        <link href="https://geekmj.github.com/mrityunjay.com.git/test-article.html"/>
+        <id>https://geekmj.github.com/mrityunjay.com.git/test-article.html</id>
+
+        <updated>2024-10-28T21:11:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Test Article
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test Article </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
